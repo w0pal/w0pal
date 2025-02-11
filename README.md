@@ -6,26 +6,26 @@
 
 ## Main Skills
 
-[![Main Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Main Skills](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
-[![Main Skills](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
-[![Main Skills](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
-[![Main Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
+[![linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+[![debian](https://skillicons.dev/icons?i=debian)](https://www.debian.org/)
+[![archlinux](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
+[![neovim](https://skillicons.dev/icons?i=neovim)](https://neovim.io/)
+[![bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 ## What I've learned
 
-[![Current learn](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
-[![Current learn](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
-[![Current learn](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
-[![Current learn](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Current learn](https://skillicons.dev/icons?i=html)](#)
-[![Current learn](https://skillicons.dev/icons?i=css)](#)
+[![nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![npm](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![expressjs](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com/)
+[![python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![html](https://skillicons.dev/icons?i=html)](#)
+[![css](https://skillicons.dev/icons?i=css)](#)
 
 ## Socials
 
 <p align="left">
-<a href="https://instagram.com/w0pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram naufal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/w0pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin naufal" height="30" width="40" /></a>
+<a href="https://instagram.com/w0pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/w0pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/w0pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="reddit" height="30" width="40" /></a>
 </p>
 
